@@ -1,7 +1,7 @@
 ### Hey, nice to see you in my Github 🍀
 I'm Arif Alan
 A software developer from Turkey
-- 🌱 I’m currently learning .Net Core, Angular
+- 🌱 I’m currently learning .Net Core, Angular,ReactJs
 - 📫 How to reach me: arifalan001@gmail.com
 - ![](https://komarev.com/ghpvc/?username=ArifAlan)
 <!--
